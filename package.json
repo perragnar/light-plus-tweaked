@@ -1,0 +1,22 @@
+{
+    "name": "light-plus-tweaked",
+    "displayName": "Light+ Tweaked",
+    "description": "A UI tweak of the Light+ theme.",
+    "version": "0.0.1",
+    "publisher": "perragnaredin",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light+ Tweaked",
+                "uiTheme": "vs",
+                "path": "./themes/Light+ Tweaked-color-theme.json"
+            }
+        ]
+    }
+}
