@@ -9,7 +9,7 @@
     "version": "0.0.2",
     "preview": true,
     "publisher": "perragnaredin",
-    "icon": "images/icon.png",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.17.0"
     },
