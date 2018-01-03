@@ -80,13 +80,21 @@
 		},
 		{
 			"scope": [
-				"comment",
 				"markup.fenced_code",
 				"markup.inline"
 			],
 			"settings": {
 				"foreground": "#6a737d"
 			}
+		},
+		{
+			"scope": [
+				"comment"
+			],
+			"settings": {
+				"foreground": "#6a737d",
+				"fontStyle": "italic"
+			}	
 		},
 		{
 			"scope": "string",
