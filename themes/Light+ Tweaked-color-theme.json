@@ -2,6 +2,7 @@
 	"name": "Light+ Tweaked",
 	"type": "light",
 	"colors": {
+		"tab.hoverBorder": "#ffbb00",
 		"focusBorder": "#fafbfc",
 		"scrollbar.shadow": "#00000000",
 		"editor.background": "#ffffff",

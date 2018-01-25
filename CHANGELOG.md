@@ -1,7 +1,9 @@
 # Change Log
 
 ## [0.1.1]
-- Italic comments
+
+- Italic comments.
+- Hover effects on borders.
 
 ## [0.1.0]
 - Added the correct syntax colors from original Light+ theme.
