@@ -4,7 +4,6 @@
 *.vsix
 
 node_modules/
-.vsix
 
 .DS_Store
 .DS_Store?
