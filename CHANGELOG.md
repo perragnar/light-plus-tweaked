@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.3]
+
+- Restored comments to original Light+ comment style.
+- Tweaked git decorations for explorer.
+
 ## [0.1.2]
 
 - Italic comments.

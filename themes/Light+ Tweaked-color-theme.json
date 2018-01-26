@@ -3,6 +3,11 @@
 	"type": "light",
 	"colors": {
 		"tab.hoverBorder": "#ffbb00",
+		"gitDecoration.modifiedResourceForeground": "#0073c0",
+        "gitDecoration.conflictingResourceForeground": "#ff0000",
+        "gitDecoration.deletedResourceForeground": "#a00000",
+        "gitDecoration.ignoredResourceForeground": "#00000044",
+        "gitDecoration.untrackedResourceForeground": "#66a500",
 		"focusBorder": "#fafbfc",
 		"scrollbar.shadow": "#00000000",
 		"editor.background": "#ffffff",
@@ -79,8 +84,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#008000",
-				"fontStyle": "italic"
+				"foreground": "#008000"
 			}
 		},
 		{
@@ -257,15 +261,6 @@
 			"settings": {
 				"foreground": "#0000ff"
 			}
-		},
-		{
-			"scope": [
-				"comment"
-			],
-			"settings": {
-				"foreground": "#6a737d",
-				"fontStyle": "italic"
-			}	
 		},
 		{
 			"scope": "string",
