@@ -4,10 +4,10 @@
 	"colors": {
 		"tab.hoverBorder": "#ffbb00",
 		"gitDecoration.modifiedResourceForeground": "#0073c0",
-        "gitDecoration.conflictingResourceForeground": "#ff0000",
-        "gitDecoration.deletedResourceForeground": "#a00000",
-        "gitDecoration.ignoredResourceForeground": "#00000044",
-        "gitDecoration.untrackedResourceForeground": "#66a500",
+		"gitDecoration.conflictingResourceForeground": "#ff0000",
+		"gitDecoration.deletedResourceForeground": "#a00000",
+		"gitDecoration.ignoredResourceForeground": "#00000044",
+		"gitDecoration.untrackedResourceForeground": "#66a500",
 		"focusBorder": "#fafbfc",
 		"scrollbar.shadow": "#00000000",
 		"editor.background": "#ffffff",
@@ -42,9 +42,9 @@
 		"titleBar.activeForeground": "#444444",
 		"titleBar.activeBackground": "#f2f4f5",
 		"titleBar.border": "#e1e4e8",
-		"notification.background": "#54a3ff",
 		"statusBar.debuggingBackground": "#fafbfc",
-		"statusBar.debuggingForeground": "#24292e"
+		"statusBar.debuggingForeground": "#24292e",
+		"editorActiveLineNumber.foreground": "#00000088"
 	},
 	"tokenColors": [
 		{

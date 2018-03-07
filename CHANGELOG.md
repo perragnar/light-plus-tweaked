@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.4]
+
+- Higlighting active row number
+
 ## [0.1.3]
 
 - Restored comments to original Light+ comment style.
