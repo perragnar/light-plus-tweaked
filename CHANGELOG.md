@@ -2,7 +2,7 @@
 
 ## [0.1.5]
 
-- Made the text color on unfocused panel tabs darker and changed border color on unfocused tabs to blue.
+- Made the text color on unfocused panel tabs darker and changed border color on unfocused tabs to blue. Thanks to [Markus Stenemo](https://github.com/mstenemo).
 
 ## [0.1.4]
 
