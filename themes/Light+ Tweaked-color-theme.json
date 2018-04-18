@@ -44,7 +44,7 @@
 		"titleBar.border": "#e1e4e8",
 		"statusBar.debuggingBackground": "#fafbfc",
 		"statusBar.debuggingForeground": "#24292e",
-		"editorActiveLineNumber.foreground": "#00000088"
+		"editorLineNumber.activeForeground": "#00000088"
 	},
 	"tokenColors": [
 		{
