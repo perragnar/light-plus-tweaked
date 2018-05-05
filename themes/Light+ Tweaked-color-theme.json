@@ -13,6 +13,7 @@
 		"editor.foreground": "#24292e",
 		"editor.lineHighlightBackground": "#fffbdd",
 		"editorIndentGuide.background": "#eeeeee",
+		"editorIndentGuide.activeBackground": "#a8a8a8",
 		"editorLineNumber.foreground": "#cccccc",
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
