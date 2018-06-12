@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.7]
+
+- Removed a deprecated setting.
+- Changed active tab border to be on top instead of bottom.
+
 ## [0.1.6]
 
 - Added support for highlighted indent guides.
