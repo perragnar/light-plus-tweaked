@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.9]
+
+- Fixed the color issue on statusbar prominent items ([#2](https://github.com/perragnar/light-plus-tweaked/issues/2)). 
+
 ## [0.1.8]
 
 - Made editor pane slightly darker to make centered layout panes pop out.
