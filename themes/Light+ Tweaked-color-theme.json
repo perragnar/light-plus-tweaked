@@ -17,6 +17,7 @@
 		"editorLineNumber.foreground": "#cccccc",
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
+		"editorPane.background": "#e7eaeb",
 		"tab.activeBackground": "#ffffff",
 		"tab.inactiveBackground": "#fafbfc",
 		"tab.border": "#e1e4e8",

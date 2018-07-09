@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.8]
+
+- Made editor pane slightly darker to make centered layout panes pop out.
+
 ## [0.1.7]
 
 - Removed a deprecated setting.
