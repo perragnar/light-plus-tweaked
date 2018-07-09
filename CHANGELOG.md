@@ -1,8 +1,12 @@
 # Change Log
 
+## [0.1.10]
+
+- Updated screenshot.
+
 ## [0.1.9]
 
-- Fixed the color issue on statusbar prominent items ([#2](https://github.com/perragnar/light-plus-tweaked/issues/2)). 
+- Fixed the color issue on statusbar prominent items ([#2](https://github.com/perragnar/light-plus-tweaked/issues/2)).
 
 ## [0.1.8]
 
@@ -36,7 +40,9 @@
 - Hover effects on borders.
 
 ## [0.1.0]
+
 - Added the correct syntax colors from original Light+ theme.
 
 ## [Unreleased]
+
 - Initial release
