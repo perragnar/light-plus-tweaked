@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.12]
+
+- Fix: Update scope names of list style and inline code in Markdown.
+
 ## [0.1.11]
 
 - Tweaked the color of statusbar prominent items ([#2](https://github.com/perragnar/light-plus-tweaked/issues/2)).
