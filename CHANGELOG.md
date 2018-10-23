@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.13]
+
+- Changed line highlight from pale (low contrast) background color to default gray border.
+
 ## [0.1.12]
 
 - Fix: Update scope names of list style and inline code in Markdown.

@@ -11,7 +11,6 @@
 		"scrollbar.shadow": "#00000000",
 		"editor.background": "#ffffff",
 		"editor.foreground": "#24292e",
-		"editor.lineHighlightBackground": "#fffbdd",
 		"editorIndentGuide.background": "#eeeeee",
 		"editorIndentGuide.activeBackground": "#a8a8a8",
 		"editorLineNumber.foreground": "#cccccc",

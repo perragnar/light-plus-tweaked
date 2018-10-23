@@ -6,8 +6,7 @@
         "type": "git",
         "url": "https://github.com/perragnar/light-plus-tweaked"
     },
-    "version": "0.1.12",
-    "preview": true,
+    "version": "0.1.13",
     "publisher": "perragnaredin",
     "galleryBanner": {
         "color": "#c0d2e4",
