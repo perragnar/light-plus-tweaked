@@ -2,6 +2,10 @@
 	"name": "Light+ Tweaked",
 	"type": "light",
 	"colors": {
+		"breadcrumb.background": "#E1E4E8",
+		"breadcrumb.foreground": "#646464",
+		"breadcrumb.focusForeground": "#000000",
+		"breadcrumb.activeSelectionForeground": "#000000",
 		"gitDecoration.modifiedResourceForeground": "#0073c0",
 		"gitDecoration.conflictingResourceForeground": "#ff0000",
 		"gitDecoration.deletedResourceForeground": "#a00000",
