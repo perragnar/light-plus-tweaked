@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.15]
+
+- Changed peek view match highlight color.
+
 ## [0.1.14]
 
 - Added styling for breadbrumbs section.
