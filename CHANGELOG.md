@@ -1,8 +1,12 @@
 # Change Log
 
-## [0.1.16]
+## [0.1.17]
 
 - Change tree indent guide color.
+
+## [0.1.16]
+
+- Made `terminal.ansiBrightYellow` darker for better readability. ([#5](https://github.com/perragnar/light-plus-tweaked/issues/5)). Thanks to [P H Garcia](https://github.com/pedrogarcia) for pointing it out.
 
 ## [0.1.15]
 

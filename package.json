@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/perragnar/light-plus-tweaked"
     },
-    "version": "0.1.16",
+    "version": "0.1.17",
     "publisher": "perragnaredin",
     "galleryBanner": {
         "color": "#c0d2e4",
@@ -25,10 +25,12 @@
         "light"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Light+ Tweaked",
-            "uiTheme": "vs",
-            "path": "./themes/Light+ Tweaked-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Light+ Tweaked",
+                "uiTheme": "vs",
+                "path": "./themes/Light+ Tweaked-color-theme.json"
+            }
+        ]
     }
 }
