@@ -30,6 +30,7 @@
 		"tab.inactiveForeground": "#000000aa",
 		"tab.unfocusedActiveForeground": "#000000ee",
 		"tab.unfocusedInactiveForeground": "#00000099",
+		"tree.indentGuidesStroke": "#a8a8a8",
 		"editorGroupHeader.tabsBackground": "#f2f4f5",
 		"editorGroupHeader.tabsBorder": "#e1e4e8",
 		"statusBar.foreground": "#444444",

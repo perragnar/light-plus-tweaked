@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.16]
+
+- Change tree indent guide color.
+
 ## [0.1.15]
 
 - Changed peek view match highlight color.
