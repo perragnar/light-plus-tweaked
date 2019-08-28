@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.18]
+
+- Update readme file with settings used in the screenshot.
+
 ## [0.1.17]
 
 - Change tree indent guide color.
