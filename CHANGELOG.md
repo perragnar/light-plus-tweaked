@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.19]
+
+- Change Remote Development statusbar item colors. ([#8](https://github.com/perragnar/light-plus-tweaked/issues/8)). Thanks to [P H Garcia](https://github.com/pedrogarcia).
+
 ## [0.1.18]
 
 - Update readme file with settings used in the screenshot.

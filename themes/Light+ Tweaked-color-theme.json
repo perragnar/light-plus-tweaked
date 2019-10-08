@@ -58,6 +58,8 @@
 		"editorLineNumber.activeForeground": "#00000088",
 		"peekViewEditor.matchHighlightBackground": "#00000011",
 		"terminal.ansiBrightYellow": "#795e26",
+		"statusBarItem.remoteForeground": "#444444",
+		"statusBarItem.remoteBackground": "#00000000",
 	},
 	"tokenColors": [{
 			"settings": {
