@@ -2,6 +2,8 @@
 	"name": "Light+ Tweaked",
 	"type": "light",
 	"colors": {
+		"activityBar.activeBorder": "#8E979C",
+		"activityBar.activeBackground": "#e3e4e4",
 		"breadcrumb.background": "#E1E4E8",
 		"breadcrumb.foreground": "#646464",
 		"breadcrumb.focusForeground": "#000000",
