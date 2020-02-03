@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.0]
+
+- Bump version to 1.0 to match [Dark+ Tweaked](https://marketplace.visualstudio.com/items?itemName=perragnaredin.dark-plus-tweaked).
+- Update screenshot.
+
 ## [0.1.20]
 
 - Customized the activity bar active tab colors. New feature in Visual Studio Code October 2019 (version 1.40) release.
