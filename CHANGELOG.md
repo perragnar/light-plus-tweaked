@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.1]
+
+- In this release I combined my two tweaked default themes into one package. Let me know if you prefer the separate versions of the themes...
+
 ## [1.0.0]
 
 - Bump version to 1.0 to match [Dark+ Tweaked](https://marketplace.visualstudio.com/items?itemName=perragnaredin.dark-plus-tweaked).

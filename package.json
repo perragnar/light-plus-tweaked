@@ -1,12 +1,12 @@
 {
     "name": "light-plus-tweaked",
-    "displayName": "Light+ Tweaked",
-    "description": "A UI tweak of the Light+ theme.",
+    "displayName": "Default+ Tweaked",
+    "description": "A UI tweak of the Light+ and Dark+ themes. Previously Light+ Tweaked.",
     "repository": {
         "type": "git",
         "url": "https://github.com/perragnar/light-plus-tweaked"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "perragnaredin",
     "galleryBanner": {
         "color": "#b0b8bf",
@@ -21,8 +21,12 @@
     ],
     "keywords": [
         "Light+",
+        "Dark+",
         "theme",
-        "light"
+        "light",
+        "dark",
+        "Light+ Tweaked",
+        "Dark+ Tweaked"
     ],
     "contributes": {
         "themes": [
@@ -30,6 +34,11 @@
                 "label": "Light+ Tweaked",
                 "uiTheme": "vs",
                 "path": "./themes/Light+ Tweaked-color-theme.json"
+            },
+            {
+                "label": "Dark+ Tweaked",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ Tweaked-color-theme.json"
             }
         ]
     }
