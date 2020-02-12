@@ -2,6 +2,10 @@
 
 ## [1.0.2]
 
+- Update VSCode Marketplace banner theme to make text readable...
+
+## [1.0.2]
+
 - A new shiny logo!
 
 ## [1.0.1]
