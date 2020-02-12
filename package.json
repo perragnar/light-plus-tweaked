@@ -6,10 +6,10 @@
         "type": "git",
         "url": "https://github.com/perragnar/light-plus-tweaked"
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "perragnaredin",
     "galleryBanner": {
-        "color": "#b0b8bf",
+        "color": "#2e3844",
         "theme": "light"
     },
     "icon": "images/logo.png",
@@ -22,7 +22,6 @@
     "keywords": [
         "Light+",
         "Dark+",
-        "theme",
         "light",
         "dark",
         "Light+ Tweaked",

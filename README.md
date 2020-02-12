@@ -5,10 +5,10 @@ The two themes were previously to separated but are now combined into one packag
 
 Enjoy!
 
-## Screenshot
+## Screenshots
 
-![Light+ Tweaked – Syntax highlight: Javascript](https://raw.githubusercontent.com/perragnar/light-plus-tweaked/master/images/screenshots/screenshot-light.png)
 ![Dark+ Tweaked – Syntax highlight: Javascript](https://raw.githubusercontent.com/perragnar/light-plus-tweaked/master/images/screenshots/screenshot-dark.png)
+![Light+ Tweaked – Syntax highlight: Javascript](https://raw.githubusercontent.com/perragnar/light-plus-tweaked/master/images/screenshots/screenshot-light.png)
 
 * The font used is [Jetbrains Mono](https://www.jetbrains.com/lp/mono/).
 * The file icon theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)

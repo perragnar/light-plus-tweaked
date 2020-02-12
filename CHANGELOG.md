@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.2]
+
+- A new shiny logo!
+
 ## [1.0.1]
 
 - In this release I combined my two tweaked default themes into one package. Let me know if you prefer the separate versions of the themes...
