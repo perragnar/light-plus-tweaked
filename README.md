@@ -5,6 +5,10 @@ The two themes were previously to separated but are now combined into one packag
 
 Enjoy!
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/perragnar/light-plus-tweaked/master/images/logo-perspective.png" style="width: 50vw; max-width: 300px;">
+</div>
+
 ## Screenshots
 
 ![Dark+ Tweaked – Syntax highlight: Javascript](https://raw.githubusercontent.com/perragnar/light-plus-tweaked/master/images/screenshots/screenshot-dark.png)

@@ -1,6 +1,10 @@
 # Change Log
 
-## [1.0.2]
+## [1.0.4]
+
+- Change `editorGroupHeader.noTabsBackground` to a darker color in Dark+ Tweaked.
+
+## [1.0.3]
 
 - Update VSCode Marketplace banner theme to make text readable...
 
