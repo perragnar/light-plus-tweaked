@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.5]
+
+- Change code fold background color for the dark theme.
+
 ## [1.0.4]
 
 - Change `editorGroupHeader.noTabsBackground` to a darker color in Dark+ Tweaked.

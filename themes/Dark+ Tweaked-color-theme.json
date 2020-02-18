@@ -1,6 +1,7 @@
 {
 	"type": "dark",
 	"colors": {
+		"editor.foldBackground": "#1a1a1a",
 		"editorGroupHeader.noTabsBackground": "#181818",
 		"editorPane.background": "#00000044",
 		"statusBar.foreground": "#646464",
