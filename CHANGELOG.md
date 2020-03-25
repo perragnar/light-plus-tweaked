@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.9]
+
+- Made inactive tabs text color a bit lighter.
+
 ## [1.0.8]
 
 - Light+ Tweaked: Change border and background color on all inputs.

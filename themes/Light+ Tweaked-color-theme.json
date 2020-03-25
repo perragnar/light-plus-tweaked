@@ -31,7 +31,7 @@
 		"tab.activeBorderTop": "#e36209",
 		"tab.unfocusedActiveBorderTop": "#099ee388",
 		"tab.activeForeground": "#000000",
-		"tab.inactiveForeground": "#000000aa",
+		"tab.inactiveForeground": "#999999",
 		"tab.unfocusedActiveForeground": "#000000ee",
 		"tab.unfocusedInactiveForeground": "#00000099",
 		"tree.indentGuidesStroke": "#a8a8a8",
