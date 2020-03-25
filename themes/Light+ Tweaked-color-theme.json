@@ -23,6 +23,8 @@
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
 		"editorPane.background": "#e7eaeb",
+		"input.background": "#f2f4f7",
+		"input.border": "#e1e4e8",
 		"tab.activeBackground": "#ffffff",
 		"tab.inactiveBackground": "#fafbfc",
 		"tab.border": "#e1e4e8",

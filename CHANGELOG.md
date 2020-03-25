@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.8]
+
+- Light+ Tweaked: Change border and background color on all inputs.
+
 ## [1.0.7]
 
 - Light+ Tweaked: Add border to the new Search editor.
