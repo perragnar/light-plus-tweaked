@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.7]
+
+- Light+ Tweaked: Add border to the new Search editor.
+
 ## [1.0.5]
 
 - Change code fold background color for the dark theme.

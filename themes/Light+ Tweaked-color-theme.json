@@ -46,6 +46,7 @@
 		"activityBar.foreground": "#8e979c",
 		"activityBar.border": "#e1e4e8",
 		"activityBarBadge.background": "#54a3ff",
+		"searchEditor.textInputBorder": "#e1e4e8",
 		"sideBar.background": "#fafbfc",
 		"sideBar.foreground": "#586069",
 		"sideBar.border": "#e1e4e8",
