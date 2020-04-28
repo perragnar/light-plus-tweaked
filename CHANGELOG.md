@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.0.10]
+
+### Light+ Tweaked:
+
+- Lighter editor pane background color.
+- Added current line highlight background color.
+
+### Dark+ Tweaked:
+
+- Make line numbers brighter.
+
 ## [1.0.9]
 
 - Made inactive tabs text color a bit lighter.

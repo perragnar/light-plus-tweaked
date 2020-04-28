@@ -1,6 +1,8 @@
 {
 	"type": "dark",
 	"colors": {
+		"editorLineNumber.foreground": "#666666",
+		"editorLineNumber.activeForeground": "#ffffff",
 		"editor.foldBackground": "#1a1a1a",
 		"editorGroupHeader.noTabsBackground": "#181818",
 		"editorPane.background": "#00000044",
@@ -23,7 +25,6 @@
 		"tab.inactiveForeground": "#949494",
 		"tab.activeBackground": "#3A83D011",
 		"tab.activeBorderTop": "#3A83D0",
-		"editorLineNumber.foreground": "#ffffff11",
 		"tab.border": "#181818",
 		"sideBar.border": "#181818",
 		"editorGroup.border": "#181818",
@@ -45,7 +46,6 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"tab.unfocusedHoverBackground": "#1E1E1E",
 		"widget.shadow": "#00000022",
-		"editorLineNumber.activeForeground": "#ffffffaa",
 		"statusBar.noFolderBackground": "#252526",
 		"tab.hoverBackground": "#3A83D011",
 		"tab.activeModifiedBorder": "#ff3c0088",

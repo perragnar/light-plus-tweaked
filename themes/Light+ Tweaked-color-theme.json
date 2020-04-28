@@ -2,6 +2,8 @@
 	"name": "Light+ Tweaked",
 	"type": "light",
 	"colors": {
+		"editorPane.background": "#fafafa",
+		"editor.lineHighlightBackground": "#00225511",
 		"activityBar.activeBorder": "#8E979C",
 		"activityBar.activeBackground": "#e3e4e4",
 		"breadcrumb.background": "#E1E4E8",
@@ -22,7 +24,6 @@
 		"editorLineNumber.foreground": "#cccccc",
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
-		"editorPane.background": "#e7eaeb",
 		"input.background": "#f2f4f7",
 		"input.border": "#e1e4e8",
 		"tab.activeBackground": "#ffffff",
