@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.0]
+
+- Update theme tokenColors from latest default themes.
+
 ## [1.0.10]
 
 ### Light+ Tweaked:
