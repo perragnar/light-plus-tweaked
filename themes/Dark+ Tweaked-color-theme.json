@@ -1,10 +1,6 @@
 {
 	"type": "dark",
 	"colors": {
-		"editorLineNumber.foreground": "#666666",
-		"editorLineNumber.activeForeground": "#ffffff",
-		"editor.foldBackground": "#1a1a1a",
-		"editorGroupHeader.noTabsBackground": "#181818",
 		"editorPane.background": "#00000044",
 		"statusBar.foreground": "#646464",
 		"sideBar.foreground": "#ffffff88",
@@ -19,20 +15,21 @@
 		"panel.background": "#1b1b1b",
 		"activityBar.background": "#181818",
 		"activityBar.foreground": "#949494",
-		"editorGroupHeader.tabsBackground": "#1E1E1E",
-		"breadcrumb.background": "#3A83D011",
-		"tab.inactiveBackground": "#1E1E1E",
+		"editorGroupHeader.tabsBackground": "#1e1e1e",
+		"breadcrumb.background": "#3a83d011",
+		"tab.inactiveBackground": "#1e1e1e",
 		"tab.inactiveForeground": "#949494",
-		"tab.activeBackground": "#3A83D011",
-		"tab.activeBorderTop": "#3A83D0",
+		"tab.activeBackground": "#3a83d011",
+		"tab.activeBorderTop": "#3a83d0",
+		"editorLineNumber.foreground": "#ffffff11",
 		"tab.border": "#181818",
 		"sideBar.border": "#181818",
 		"editorGroup.border": "#181818",
 		"panel.border": "#181818",
 		"statusBar.border": "#181818",
 		"activityBar.border": "#181818",
-		"activityBar.activeBackground": "#3A83D011",
-		"activityBar.activeBorder": "#3A83D0",
+		"activityBar.activeBackground": "#3a83d011",
+		"activityBar.activeBorder": "#3a83d0",
 		"titleBar.border": "#181818",
 		"titleBar.activeBackground": "#181818",
 		"activityBarBadge.background": "#007acc",
@@ -44,16 +41,17 @@
 		"list.dropBackground": "#383b3d",
 		"scrollbar.shadow": "#00000022",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"tab.unfocusedHoverBackground": "#1E1E1E",
+		"tab.unfocusedHoverBackground": "#1e1e1e",
 		"widget.shadow": "#00000022",
+		"editorLineNumber.activeForeground": "#ffffffaa",
 		"statusBar.noFolderBackground": "#252526",
-		"tab.hoverBackground": "#3A83D011",
+		"tab.hoverBackground": "#3a83d011",
 		"tab.activeModifiedBorder": "#ff3c0088",
 		"peekViewEditor.background": "#181818",
-		"peekViewResult.background": "#1B1B1B",
-		"peekView.border": "#007ACC00",
-		"peekViewTitle.background": "#007ACC",
-		"peekViewEditorGutter.background": "#1B1B1B",
+		"peekViewResult.background": "#1b1b1b",
+		"peekView.border": "#007acc00",
+		"peekViewTitle.background": "#007acc",
+		"peekViewEditorGutter.background": "#1b1b1b",
 	},
 	"tokenColors": [{
 			"scope": [
@@ -61,7 +59,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#d4d4d4"
 			}
 		},
 		{
@@ -85,7 +83,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6A9955",
+				"foreground": "#6a9955",
 				"fontStyle": "italic"
 			}
 		},
@@ -162,15 +160,15 @@
 		{
 			"scope": "markup.bold",
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#569cd6"
+				"foreground": "#569cd6",
+				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#569cd6"
+				"foreground": "#569cd6",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -200,7 +198,7 @@
 		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
-				"foreground": "#6A9955"
+				"foreground": "#6a9955"
 			}
 		},
 		{
@@ -216,7 +214,6 @@
 			}
 		},
 		{
-			"name": "brackets of XML/HTML tags",
 			"scope": "punctuation.definition.tag",
 			"settings": {
 				"foreground": "#808080"
@@ -224,7 +221,8 @@
 		},
 		{
 			"scope": [
-				"meta.preprocessor"
+				"meta.preprocessor",
+				"entity.name.function.preprocessor"
 			],
 			"settings": {
 				"foreground": "#569cd6"
@@ -278,7 +276,8 @@
 		{
 			"scope": [
 				"string",
-				"entity.name.operator.custom-literal.string"
+				"entity.name.operator.custom-literal.string",
+				"meta.embedded.assembly"
 			],
 			"settings": {
 				"foreground": "#ce9178"
@@ -303,7 +302,6 @@
 			}
 		},
 		{
-			"name": "String interpolation",
 			"scope": [
 				"punctuation.definition.template-expression.begin",
 				"punctuation.definition.template-expression.end",
@@ -314,7 +312,6 @@
 			}
 		},
 		{
-			"name": "Reset JavaScript string interpolation expression",
 			"scope": [
 				"meta.template.expression"
 			],
@@ -398,7 +395,6 @@
 			}
 		},
 		{
-			"name": "coloring of the Java import and package identifiers",
 			"scope": [
 				"storage.modifier.import.java",
 				"variable.language.wildcard.java",
@@ -409,26 +405,24 @@
 			}
 		},
 		{
-			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#569cd6"
 			}
 		},
 		{
-			"name": "Function declarations",
 			"scope": [
 				"entity.name.function",
 				"support.function",
 				"support.constant.handlebars",
-				"source.powershell variable.other.member"
+				"source.powershell variable.other.member",
+				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#dcdcaa"
 			}
 		},
 		{
-			"name": "Types declaration and references",
 			"scope": [
 				"meta.return-type",
 				"support.class",
@@ -465,11 +459,10 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#4ec9b0"
 			}
 		},
 		{
-			"name": "Types declaration and references, TS grammar specific",
 			"scope": [
 				"meta.type.cast.expr",
 				"meta.type.new.expr",
@@ -479,11 +472,10 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#4ec9b0"
 			}
 		},
 		{
-			"name": "Control flow / Special keywords",
 			"scope": [
 				"keyword.control",
 				"source.cpp keyword.operator.new",
@@ -493,11 +485,10 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#c586c0"
 			}
 		},
 		{
-			"name": "Variable and parameter name",
 			"scope": [
 				"variable",
 				"meta.definition.variable.name",
@@ -505,20 +496,18 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#9cdcfe"
 			}
 		},
 		{
-			"name": "Object keys, TS grammar specific",
 			"scope": [
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#9cdcfe"
 			}
 		},
 		{
-			"name": "CSS property value",
 			"scope": [
 				"support.constant.property-value",
 				"support.constant.font-name",
@@ -529,11 +518,10 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#ce9178"
 			}
 		},
 		{
-			"name": "Regular expression groups",
 			"scope": [
 				"punctuation.definition.group.regexp",
 				"punctuation.definition.group.assertion.regexp",
@@ -544,7 +532,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#ce9178"
 			}
 		},
 		{
@@ -564,7 +552,7 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#dcdcaa"
 			}
 		},
 		{
@@ -588,7 +576,7 @@
 		{
 			"scope": "entity.name.label",
 			"settings": {
-				"foreground": "#C8C8C8"
+				"foreground": "#c8c8c8"
 			}
 		},
 		{
