@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.1]
+
+- More contrast for linenumbers and active line number.
+
 ## [1.1.0]
 
 - Update theme tokenColors from latest default themes.
