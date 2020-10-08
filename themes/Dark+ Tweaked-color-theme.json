@@ -7,7 +7,7 @@
 		"tree.indentGuidesStroke": "#ffffff11",
 		"gitDecoration.ignoredResourceForeground": "#ffffff1a",
 		"editor.lineHighlightBackground": "#ffffff08",
-		"editorIndentGuide.activeBackground": "#ffffff11",
+		"editorIndentGuide.activeBackground": "#ffffff33",
 		"editorCursor.foreground": "#cfa738",
 		"editorCursor.background": "#57430e",
 		"statusBar.background": "#181818",

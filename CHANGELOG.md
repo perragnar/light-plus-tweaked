@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.2]
+
+### Dark+ Tweaked:
+
+- More contrast on active indent guide.
+
 ## [1.1.1]
 
 - More contrast for linenumbers and active line number.
