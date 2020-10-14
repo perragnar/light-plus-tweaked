@@ -1,13 +1,13 @@
 {
 	"type": "dark",
 	"colors": {
+		"gitDecoration.ignoredResourceForeground": "#4b4b4b",
 		"tab.activeBackground": "#20252B",
 		"breadcrumb.background": "#20252B",
 		"editorPane.background": "#00000044",
 		"statusBar.foreground": "#646464",
 		"sideBar.foreground": "#ffffff88",
 		"tree.indentGuidesStroke": "#ffffff11",
-		"gitDecoration.ignoredResourceForeground": "#ffffff1a",
 		"editor.lineHighlightBackground": "#ffffff08",
 		"editorIndentGuide.activeBackground": "#ffffff33",
 		"editorCursor.foreground": "#cfa738",

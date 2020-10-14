@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.4]
+
+### Dark+ Tweaked:
+
+- Make ignored resources text brighter in file list.
+
 ## [1.1.3]
 
 ### Dark+ Tweaked:
