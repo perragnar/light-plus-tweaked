@@ -1,6 +1,8 @@
 {
 	"type": "dark",
 	"colors": {
+		"tab.activeBackground": "#20252B",
+		"breadcrumb.background": "#20252B",
 		"editorPane.background": "#00000044",
 		"statusBar.foreground": "#646464",
 		"sideBar.foreground": "#ffffff88",
@@ -16,10 +18,8 @@
 		"activityBar.background": "#181818",
 		"activityBar.foreground": "#949494",
 		"editorGroupHeader.tabsBackground": "#1e1e1e",
-		"breadcrumb.background": "#3a83d011",
 		"tab.inactiveBackground": "#1e1e1e",
 		"tab.inactiveForeground": "#949494",
-		"tab.activeBackground": "#3a83d011",
 		"tab.activeBorderTop": "#3a83d0",
 		"editorLineNumber.foreground": "#3a3a3a",
         "editorLineNumber.activeForeground": "#afafaf",

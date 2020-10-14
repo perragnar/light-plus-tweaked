@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.3]
+
+### Dark+ Tweaked:
+
+- Change background of active tab to a solid color.
+
 ## [1.1.2]
 
 ### Dark+ Tweaked:
