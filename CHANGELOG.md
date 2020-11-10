@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.5]
+
+### Light+ Tweaked:
+
+- Add bordes on input fields to enhance contrast. ([#10](https://github.com/perragnar/light-plus-tweaked/issues/10)). Thanks to [Pedro](https://github.com/phgmacedo) for pointing it out.
+
 ## [1.1.4]
 
 ### Dark+ Tweaked:
