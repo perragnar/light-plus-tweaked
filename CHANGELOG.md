@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.6]
+
+### Dark+ Tweaked:
+
+- Pinned tabs are no longer transparent on hover.
+
 ## [1.1.5]
 
 ### Light+ Tweaked:
