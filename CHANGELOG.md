@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.7]
+
+### Dark+ Tweaked:
+
+- Change colors of Open remote window button in statusbar.
+
 ## [1.1.6]
 
 ### Dark+ Tweaked:
