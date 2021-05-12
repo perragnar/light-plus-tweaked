@@ -26,7 +26,7 @@
 		"focusBorder": "#fafbfc",
 		"gitDecoration.conflictingResourceForeground": "#ff0000",
 		"gitDecoration.deletedResourceForeground": "#a00000",
-		"gitDecoration.ignoredResourceForeground": "#00000044",
+		"gitDecoration.ignoredResourceForeground": "#8e8e90",
 		"gitDecoration.modifiedResourceForeground": "#0073c0",
 		"gitDecoration.untrackedResourceForeground": "#66a500",
 		"input.border": "#E1E4E8",
@@ -66,7 +66,8 @@
 		"titleBar.border": "#e1e4e8",
 		"tree.indentGuidesStroke": "#a8a8a8",
 	},
-	"tokenColors": [{
+	"tokenColors": [
+		{
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded"
@@ -647,5 +648,12 @@
 				"foreground": "#800080"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"newOperator": "#AF00DB",
+		"stringLiteral": "#a31515",
+		"customLiteral": "#795E26",
+		"numberLiteral": "#098658",
+	}
 }
