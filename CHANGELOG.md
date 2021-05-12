@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.8]
+
+- Set "gitDecoration.ignoredResourceForeground" to the default value [#12](https://github.com/perragnar/light-plus-tweaked/issues/12)
+- Add semantic highlight parts from the default light+ [#9](https://github.com/perragnar/light-plus-tweaked/issues/9)
+
+Thanks [zhibinr](https://github.com/zhibinr)!
+
 ## [1.1.7]
 
 ### Dark+ Tweaked:
