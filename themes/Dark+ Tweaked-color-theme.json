@@ -23,6 +23,7 @@
     "editorLineNumber.foreground": "#3a3a3a",
     "editorPane.background": "#00000044",
     "gitDecoration.ignoredResourceForeground": "#4b4b4b",
+		"list.focusHighlightForeground": "#9dddff",
 		"list.dropBackground": "#383b3d",
 		"panel.background": "#1b1b1b",
 		"panel.border": "#181818",

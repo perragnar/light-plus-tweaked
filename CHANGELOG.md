@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.9]
+
+### Light+ Tweaked:
+
+- List highlight on focused items are now set to the default Light+ theme color. [#13](https://github.com/perragnar/light-plus-tweaked/issues/13)
+
 ## [1.1.8]
 
 - Set "gitDecoration.ignoredResourceForeground" to the default value [#12](https://github.com/perragnar/light-plus-tweaked/issues/12)
