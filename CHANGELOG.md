@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.11]
+
+- Fix editorSuggestWidget.focusHighlightForeground. Related to [#13](https://github.com/perragnar/light-plus-tweaked/issues/13)
+
 ## [1.1.9]
 
 ### Light+ Tweaked:

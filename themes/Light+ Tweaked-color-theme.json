@@ -23,6 +23,7 @@
 		"editorLineNumber.activeForeground": "#575757",
 		"editorLineNumber.foreground": "#bbbbbb",
 		"editorPane.background": "#e7eaeb",
+		"editorSuggestWidget.focusHighlightForeground": "#9dddff",
 		"focusBorder": "#fafbfc",
 		"gitDecoration.conflictingResourceForeground": "#ff0000",
 		"gitDecoration.deletedResourceForeground": "#a00000",
