@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.12]
+
+- Hide line highlight border and change line highlight color.
+- Change icon color.
+- Change ruler color.
+
 ## [1.1.11]
 
 - Fix editorSuggestWidget.focusHighlightForeground. Related to [#13](https://github.com/perragnar/light-plus-tweaked/issues/13)

@@ -67,9 +67,12 @@
 		"titleBar.activeForeground": "#444444",
 		"titleBar.border": "#e1e4e8",
 		"tree.indentGuidesStroke": "#a8a8a8",
+		"editorRuler.foreground": "#ffffff11",
+		"icon.foreground": "#ffffff44",
+		"editor.lineHighlightBorder": "#00000000",
+		"editor.lineHighlightBackground": "#302e2b"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded"
