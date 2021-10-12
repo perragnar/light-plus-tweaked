@@ -11,7 +11,6 @@
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#d4d4d4",
 		"editor.inactiveSelectionBackground": "#3a3d41",
-		"editor.lineHighlightBackground": "#ffffff08",
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorCursor.background": "#57430e",
 		"editorCursor.foreground": "#cfa738",
@@ -19,10 +18,10 @@
 		"editorGroupHeader.tabsBackground": "#1e1e1e",
 		"editorIndentGuide.activeBackground": "#ffffff33",
 		"editorIndentGuide.background": "#ffffff0c",
-    "editorLineNumber.activeForeground": "#afafaf",
-    "editorLineNumber.foreground": "#3a3a3a",
-    "editorPane.background": "#00000044",
-    "gitDecoration.ignoredResourceForeground": "#4b4b4b",
+		"editorLineNumber.activeForeground": "#afafaf",
+		"editorLineNumber.foreground": "#3a3a3a",
+		"editorPane.background": "#00000044",
+		"gitDecoration.ignoredResourceForeground": "#4b4b4b",
 		"list.dropBackground": "#383b3d",
 		"panel.background": "#1b1b1b",
 		"panel.border": "#181818",
@@ -54,6 +53,10 @@
 		"titleBar.border": "#181818",
 		"tree.indentGuidesStroke": "#ffffff11",
 		"widget.shadow": "#00000022",
+		"editorRuler.foreground": "#ffffff11",
+		"icon.foreground": "#ffffff44",
+		"editor.lineHighlightBorder": "#00000000",
+		"editor.lineHighlightBackground": "#302e2b"
 	},
 	"tokenColors": [{
 			"scope": [
