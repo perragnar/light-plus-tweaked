@@ -56,7 +56,7 @@
 		"editorRuler.foreground": "#ffffff11",
 		"icon.foreground": "#ffffff44",
 		"editor.lineHighlightBorder": "#00000000",
-		"editor.lineHighlightBackground": "#302e2b"
+		"editor.lineHighlightBackground": "#1C2E3E66",
 	},
 	"tokenColors": [{
 			"scope": [

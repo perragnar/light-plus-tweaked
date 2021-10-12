@@ -1,6 +1,14 @@
 # Change Log
 
+## [1.1.15]
+
+### Dark+ Tweaked:
+
+- Change line highlight color.
+
 ## [1.1.12]
+
+### Dark+ Tweaked:
 
 - Hide line highlight border and change line highlight color.
 - Change icon color.
