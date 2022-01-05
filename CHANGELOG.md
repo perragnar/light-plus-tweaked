@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.16]
+
+### Light+ Tweaked:
+
+- Change list.activeSelectionIconForeground to white color for readability. Thanks [zhibinr](https://github.com/zhibinr) for the PR!
+
 ## [1.1.15]
 
 ### Dark+ Tweaked:
