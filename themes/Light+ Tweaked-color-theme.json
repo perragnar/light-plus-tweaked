@@ -32,6 +32,7 @@
 		"gitDecoration.untrackedResourceForeground": "#66a500",
 		"input.border": "#E1E4E8",
 		"list.focusHighlightForeground": "#9dddff",
+		"list.activeSelectionIconForeground": "#FFF"
 		"panelInput.border": "#E1E4E8",
 		"peekViewEditor.matchHighlightBackground": "#00000011",
 		"scrollbar.shadow": "#00000000",
